@@ -1,5 +1,7 @@
 Verkefni unnið í RAF620M Inngangur að vélrænu námi og gervigreind við Háskóla Íslands.
 
+Með fylgir skýrsla með niðurstöðum, kóðar og gögn.
+
 # Úrdráttur
 
 Í þessu verkefni var reynt að spá fyrir um fjölda koma á Bráðamóttökuna í Fossvogi út frá veði, 
