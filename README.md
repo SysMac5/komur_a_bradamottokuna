@@ -1,4 +1,4 @@
-Verkefnið unnið í RAF620M Inngangur að vélrænu námi og gervigreind við Háskóla Íslands.
+Verkefni unnið í RAF620M Inngangur að vélrænu námi og gervigreind við Háskóla Íslands.
 
 # Úrdráttur
 
