@@ -4,7 +4,7 @@ Með fylgir skýrsla með niðurstöðum, kóðar og gögn.
 
 # Úrdráttur
 
-Í þessu verkefni var reynt að spá fyrir um fjölda koma á Bráðamóttökuna í Fossvogi út frá veði, 
+Í þessu verkefni var reynt að spá fyrir um fjölda koma á Bráðamóttökuna í Fossvogi út frá veðri, 
 degi árs og hvort það var helgi, frídagur eða stór hátíð. Sett voru upp tvö líkön, eitt línulegt 
 aðhvarfsgreiningarlíkan (e. *linear regression*) og eitt flóknara, LSTM-líkan, 
 (e. *long short-term memory*). Niðurstöður líkananna voru síðan  bornar saman við 
